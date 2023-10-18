@@ -1,7 +1,7 @@
 ## Buenas a todos! 👋
 
 ↠ Somos un grupo de estudiantes de ingenieria en sistemas de la UTN FRCU.   
-↠ La organizacion contiene proyectos de la catedra taller de programacion.   
+↠ La organizacion contiene proyectos de la catedra de desarrollo de software.  
 ↠ Principalmente contendra codigo C# utilizando .NET orientado a desarrollos web, combinando el frontend en React/Angular.   
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
